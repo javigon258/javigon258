@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Me llamo Javier soy desarrollador Fullstack y Analista de Datos Junior
 
-<!--
-**javigon258/javigon258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Con experiencia en desarrollo **frontend y backend**, actualmente me estoy especializando en **Data Science**, con enfoque en análisis de datos y modelos predictivos. Me interesa crear **aplicaciones inteligentes basadas en datos**.
 
-Here are some ideas to get you started:
+💼 He trabajado en proyectos de gran envergadura para empresas como **INDRA | Minsait** y **Ayesa A.T.**, participando en el desarrollo de funcionalidades, automatización de procesos y resolución de incidencias técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologías que uso con frecuencia
+
+- **Java** – backend sólido y estructurado  
+- **Python** – ciencia de datos y ML con `pandas`, `numpy`, `tensorflow`  
+- **Appian** – automatización de procesos y aplicaciones low-code  
+- **Angular** – interfaces dinámicas y responsivas  
+
+---
+[LinkedIn](https://www.linkedin.com/in/javier-gonzalez-guzman/)
+
+📈 En constante evolución, combinando experiencia profesional y formación técnica para construir soluciones cada vez más **inteligentes y eficientes**.
