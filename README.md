@@ -6,6 +6,7 @@
 
 💼 He trabajado en proyectos de gran envergadura para empresas como **INDRA | Minsait** y **Ayesa A.T.**, participando en el desarrollo de funcionalidades, automatización de procesos y resolución de incidencias técnicas.
 
+🎬 Portfolio: Recomendador de películas
 ---
 
 ### 🚀 Tecnologías que uso con frecuencia
