@@ -7,6 +7,8 @@
 💼 He trabajado en proyectos de gran envergadura para empresas como **INDRA | Minsait** y **Ayesa A.T.**, participando en el desarrollo de funcionalidades, automatización de procesos y resolución de incidencias técnicas.
 
 🎬 Portfolio: Recomendador de películas
+
+
 ---
 
 ### 🚀 Tecnologías que uso con frecuencia
@@ -27,9 +29,16 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=flat)
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javigon258&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigon258&layout=compact"/>
+</p>
+
 ---
+
 ### 📫 Contáctame
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-gonzalez-guzman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-gonzalez-guzman/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiergonzalezg258@gmail.com)
 
 📈 En constante evolución, combinando experiencia profesional y formación técnica para construir soluciones cada vez más **inteligentes y eficientes**.
 
