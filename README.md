@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Me llamo Javier Gonzalez
+## 👋 ¡Hola! Soy llamo Javier Gonzalez
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Fullstack;+Data+Scientist" alt="Typing SVG" /> </p>
 
