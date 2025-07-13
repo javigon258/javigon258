@@ -27,6 +27,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=flat)
 
 ---
+### 📫 Contáctame
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-gonzalez-guzman/)
 
 📈 En constante evolución, combinando experiencia profesional y formación técnica para construir soluciones cada vez más **inteligentes y eficientes**.
